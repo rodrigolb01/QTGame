@@ -1,0 +1,3 @@
+all performance problems fixed
+continuous beam fixed
+enemy AI reseted

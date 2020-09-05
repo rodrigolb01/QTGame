@@ -1,0 +1,2 @@
+Class sprite. contains playable animated object
+Class spriteE. contains non-playable animated object.

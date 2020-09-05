@@ -1,0 +1,33 @@
+<RCC>
+    <qresource prefix="/sounds">
+        <file>sounds/enemy_destroyed.wav</file>
+        <file>sounds/shoot_damage.wav</file>
+        <file>sounds/shoot1.wav</file>
+        <file>sounds/shoot2.wav</file>
+        <file>sounds/vernier1.wav</file>
+        <file>sounds/launch1.wav</file>
+        <file>sounds/launch2.wav</file>
+        <file>sounds/launch3.wav</file>
+        <file>sounds/reload1.wav</file>
+    </qresource>
+    <qresource prefix="/images">
+        <file>img/background1.png</file>
+        <file>img/beam.png</file>
+        <file>img/spritesheet01.png</file>
+        <file>img/background2.png</file>
+        <file>img/spritesheet01d.png</file>
+        <file>img/hizack spritesheet.png</file>
+        <file>img/battleship1.png</file>
+        <file>img/turret1.png</file>
+        <file>img/explosion1.png</file>
+        <file>img/hizackWreackage.png</file>
+        <file>img/debris1.png</file>
+        <file>img/beamTurret1.png</file>
+        <file>img/battleshipInfo1.png</file>
+        <file>img/msinfo1.png</file>
+        <file>img/screen.png</file>
+        <file>img/launchScreen.png</file>
+        <file>img/gameScreen.jpg</file>
+        <file>img/background4.png</file>
+    </qresource>
+</RCC>

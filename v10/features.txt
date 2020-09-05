@@ -1,0 +1,3 @@
+.database implementation for storage and validate user login
+.moving background
+.fixed the bullets that were not being deleted from the scene

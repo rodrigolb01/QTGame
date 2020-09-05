@@ -1,0 +1,3 @@
+*info about game objects 
+*player GUI improved
+*login screen prototype

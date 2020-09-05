@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/sounds">
+        <file>sounds/enemy_destroyed.wav</file>
+        <file>sounds/shoot_damage.wav</file>
+        <file>sounds/shoot1.wav</file>
+        <file>sounds/shoot2.wav</file>
+        <file>sounds/vernier1.wav</file>
+    </qresource>
+    <qresource prefix="/images">
+        <file>img/background1.png</file>
+        <file>img/beam.png</file>
+        <file>img/hizack01.png</file>
+        <file>img/spritesheet01.png</file>
+        <file>img/wr.png</file>
+        <file>img/wrl.png</file>
+        <file>img/wrr.png</file>
+        <file>img/wrf.png</file>
+        <file>img/spritewr.png</file>
+        <file>img/spritewr2.png</file>
+        <file>img/spritewr3.png</file>
+    </qresource>
+</RCC>

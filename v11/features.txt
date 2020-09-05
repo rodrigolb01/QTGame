@@ -1,0 +1,4 @@
+New weapon: Hypermega launcher
+fixed: application crashes when creating a new game
+     .use of parent-child relationships in game
+Game Over screen
